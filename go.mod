@@ -1,3 +1,3 @@
-module github.com/netology-code/sdvps-materials
+module github.com/balanetskiyvv/additionl-CICD-materials
 
 go 1.23.4
